@@ -4,7 +4,7 @@
 A Titanic classifier is a machine learning model that predicts whether a passenger on the Titanic would have survived or not. This classifier utilizes historical data from the Titanic dataset, which includes information about passengers among any other features.
 
 ## Features
-- **Embarked :** Port of Embarkation (C = Cherbourg; Q = Queenstown; S = Southampton).
+- **Embarked :** Port of Embarkation.
 - **SibSp :** Number of siblings/spouses aboard the Titanic.
 - **Pclass :** Ticket class which is a proxy for socio-economic status.
 
@@ -21,6 +21,6 @@ A Titanic classifier is a machine learning model that predicts whether a passeng
    ```bash
     git clone https://github.com/banu4prasad/Titanic-Classification.git
 2.Navigate to the project directory:
-bash
-Copy code
--cd Titanic-Classification
+zsh
+```
+cd Titanic-Classification
